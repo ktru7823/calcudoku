@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Calcudoku2018 {
+public class Calcudoku {
 	private static final String[] OPERATORS = {"+", "-", "*", "/"};
 	private static int boardSize = 0;
 
