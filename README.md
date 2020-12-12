@@ -17,7 +17,7 @@ Example input (for the above board):
 80* 3 5- 2/ 11+ 1- 9* 2 3- 30* 11+ 2/ 6 8* 13+ 8+ 10* 1  
 
 Input explanation:  
-Define the board line by line, with cages defined by their number. On the final line, define the operations for each cage in order.  
+Define the board line by line, with cages defined by their number. On the final line, define the operations for each cage in order, with a space in-between each operation.  
 
 Expected output:  
 >5 4 3 1 6 2  
