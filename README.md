@@ -3,6 +3,7 @@
 This is a brute force based solution to calcudoku/kenken using Java. It takes user input from stdin line by line to form the board.  
 Given a board with multiple solutions, the program will output only one of the solutions.  
 Given a board with no solution, the program will output "no solution".  
+Note that the program does not verify if the board is valid, so an invalid board has undefined behaviour.  
 
 Example board:  
 ![board](board.png)
