@@ -19,7 +19,7 @@ Example input (for the above board):
 Input explanation:  
 Define the board line by line, with cages defined by their number. On the final line, define the operations for each cage in order, with a space in-between each operation.  
 
-Expected output:  
+Expected output/solution:  
 >5 4 3 1 6 2  
 4 6 5 2 3 1  
 3 2 1 4 5 6  
